@@ -1,16 +1,14 @@
 <h1 align="center">✨ Hey, I'm Yashvi 👋</h1>
+<div align="center">
 
-<p align="center">
-  💻 Developer in progress | 🌱 Learner | 🚀 Tech Enthusiast
-</p>
+# Yashvi Dixit
 
----
+### Building • Learning • Growing
 
-<p align="center">
-  <img src="YOUR_IMAGE_LINK" width="200" style="border-radius:50%;" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&center=true&width=435&lines=B.Tech+CSE+Student;Java+Developer;DSA+Enthusiast;Cloud+Computing+Learner;Always+Learning+Something+New" alt="Typing SVG" />
 
----
+</div>
+
 
 ## 🚀 About Me
 
