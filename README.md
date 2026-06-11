@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Full Stack Development & DSA
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about Python, Web Development, and GitHub
-- 📫 How to reach me: [Add your email or LinkedIn here]
+- 📫 How to reach me: https://www.linkedin.com/in/yashvi-dixit-7125242a2?
 - ⚡ Fun fact: I love building creative and useful projects
 
 ---
@@ -36,7 +36,35 @@
 ---
 
 ## 🚀 Projects
-- 🌟 Add your best projects here with links  
+
+### 🎓 Campus Placement Management System
+
+* Developed a web-based platform to streamline campus recruitment activities for students and placement coordinators.
+* Implemented features such as student registration, company listings, job applications, and placement tracking.
+* **Tech Stack:** React.js, Node.js, Express.js, PostgreSQL
+* 🔗 Repository: https://github.com/yashvi-28
+
+### 🏥 Clinical Appointment Booking System
+
+* Built a healthcare management application that enables patients to book appointments and manage medical records efficiently.
+* Developed user-friendly interfaces and backend services for appointment scheduling and data management.
+* **Tech Stack:** React.js, Node.js, Express.js, PostgreSQL
+* 🔗 Repository: https://github.com/yashvi-28
+
+### 🛍️ ShopEase – E-Commerce Platform
+
+* Developed a full-stack e-commerce application with secure user authentication and product management.
+* Implemented responsive UI, REST APIs, and database integration for seamless shopping experiences.
+* **Tech Stack:** React.js, Node.js, Express.js, PostgreSQL
+* 🔗 Repository: https://github.com/yashvi-28
+
+### 🧬 Genetics Data Management System
+
+* Designed and developed a database management system for storing and managing genetic information.
+* Created optimized database schemas and SQL queries for efficient data retrieval and analysis.
+* **Tech Stack:** Java, SQL, DBMS
+* 🔗 Repository: https://github.com/yashvi-28
+  
 Example:
 - Portfolio Website – https://github.com/yashvi-28
 - Mini Python Projects – https://github.com/yashvi-28
