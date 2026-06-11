@@ -1,64 +1,50 @@
-<div align="center">
+<h1 align="center">✨ Hey, I'm Yashvi 👋</h1>
 
-# Yashvi Dixit
-
-### Building • Learning • Growing
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&center=true&width=435&lines=B.Tech+CSE+Student;Java+Developer;DSA+Enthusiast;Cloud+Computing+Learner;Always+Learning+Something+New" alt="Typing SVG" />
-
-</div>
+<p align="center">
+  💻 Developer in progress | 🌱 Learner | 🚀 Tech Enthusiast
+</p>
 
 ---
 
-
+<p align="center">
+  <img src="YOUR_IMAGE_LINK" width="200" style="border-radius:50%;" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Student passionate about Software Development & AI
-- 💡 Interested in Web Development, AI & Open Source
-- 🌱 Currently learning and building real-world projects
-- 🎯 Goal: Become a skilled Full Stack Developer
+- 🎓 Student passionate about coding & technology  
+- 💡 Interested in Web Development, AI & Open Source  
+- 🌱 Currently learning Full Stack Development  
+- 🎯 Goal: Become a skilled Software Engineer  
+- ⚡ I love building creative projects  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 💻 Languages: C, C++, Java, Python
-- 🌐 Web: HTML, CSS, JavaScript
-- ⚙️ Tools: Git, GitHub, VS Code
-- 🧠 Exploring: React, Node.js, AI/ML
-
----
-
-## 📂 Projects
-
-Here are some of my projects:
-
-- 🔹 Portfolio Website  
-- 🔹 Login & Authentication Pages  
-- 🔹 Mini JavaScript Projects  
-- 🔹 College/Practice Projects  
-
-👉 More projects available in my repositories.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashvi-28&show_icons=true&theme=radical)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvi-28&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=yashvi-28&show_icons=true&theme=radical" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvi-28&layout=compact&theme=radical" width="48%"/>
 
----
-
-## 🌐 Connect with Me
-
-- 💌 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com  
-- 🌟 GitHub: https://github.com/yashvi-28  
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+## 🔥 Current Focus
+
+```text
+💻 Full Stack Development
+⚙️ Real-world Projects
+📚 DSA Practice
+🚀 AI & Automation Basics
