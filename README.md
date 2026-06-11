@@ -1,4 +1,4 @@
-<h1 align="center">✨ Yashvi 👋</h1>
+
 <div align="center">
 
 # Yashvi Dixit
