@@ -1,48 +1,117 @@
-
-<div align="center">
-
 # Yashvi Dixit
 
-### Building • Learning • Growing
+```bash
+$ whoami
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&center=true&width=435&lines=B.Tech+CSE+Student;Java+Developer;DSA+Enthusiast;Cloud+Computing+Learner;Always+Learning+Something+New" alt="Typing SVG" />
+> B.Tech CSE Student
+> Java Developer
+> DSA Enthusiast
+> Cloud Computing Learner
+> Little Big Dreams.
+```
 
-</div>
+```java
+public class Yashvi {
 
+    String role = "B.Tech CSE Student";
+    String language = "Java";
+    String focus = "DSA • Cloud • AI";
 
-## 🚀 About Me
+    public void mindset() {
+        learn();
+        build();
+        improve();
+    }
+}
+```
 
-- 🎓 Student passionate about coding & technology  
-- 💡 Interested in Web Development, AI & Open Source  
-- 🌱 Currently learning Full Stack Development  
-- 🎯 Goal: Become a skilled Software Engineer  
-- ⚡ I love building creative projects  
+## About Me
 
----
+* Passionate about Software Development
+* Solving Data Structures & Algorithms problems
+* Learning Cloud Computing
+* Exploring AI and emerging technologies
+* Building projects that solve real-world problems
 
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yashvi-28&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvi-28&layout=compact&theme=radical" width="48%"/>
-
-</p>
-
----
-
-## 🔥 Current Focus
+## Tech Stack
 
 ```text
-💻 Full Stack Development
-⚙️ Real-world Projects
-📚 DSA Practice
-🚀 AI & Automation Basics
+Languages    :: Java • JavaScript • SQL • Python
+
+Frontend     :: HTML • CSS • React
+
+Backend      :: Node.js • Express.js
+
+Database     :: PostgreSQL • MySQL
+
+Tools        :: Git • GitHub • VS Code • Postman
+```
+
+## Projects
+
+### DealDigger
+
+```bash
+Compare Prices.
+Track Deals.
+Save Money.
+```
+
+A smart shopping comparison platform that helps users compare product prices across multiple e-commerce websites.
+
+### Clinical AI
+
+```bash
+AI + Healthcare = Better Accessibility
+```
+
+An AI-powered healthcare assistant focused on improving access to medical information.
+
+### Genetics Data Management System
+
+```bash
+Store • Manage • Analyze
+```
+
+A database management system for efficient management of genetic records.
+
+## Current Status
+
+```bash
+✔ Learning Cloud Computing
+
+✔ Practicing DSA
+
+✔ Building Projects
+
+✔ Improving Every Day
+```
+
+## Philosophy
+
+```cpp
+while(true)
+{
+    Learn();
+    Build();
+    Improve();
+}
+```
+
+## Fun Fact
+
+```bash
+99 little bugs in the code,
+99 little bugs.
+
+Take one down,
+Patch it around,
+
+127 little bugs in the code.
+```
+
+---
+
+### Dream Big. Start Small. Build Daily.
+
+### Little Big Dreams.
