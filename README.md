@@ -42,21 +42,15 @@
 * Developed a web-based platform to streamline campus recruitment activities for students and placement coordinators.
 * Implemented features such as student registration, company listings, job applications, and placement tracking.
 * **Tech Stack:** React.js, Node.js, Express.js, PostgreSQL
-* 🔗 Repository: https://github.com/yashvi-28
-
+* 🔗 Repository: https://github.com/yashvi-28/Campus-Placement-Management-System
+* 
 ### 🏥 Clinical Appointment Booking System
 
 * Built a healthcare management application that enables patients to book appointments and manage medical records efficiently.
 * Developed user-friendly interfaces and backend services for appointment scheduling and data management.
 * **Tech Stack:** React.js, Node.js, Express.js, PostgreSQL
-* 🔗 Repository: https://github.com/yashvi-28
+* 🔗 Repository: https://github.com/yashvi-28/Clinical-Ai
 
-### 🛍️ ShopEase – E-Commerce Platform
-
-* Developed a full-stack e-commerce application with secure user authentication and product management.
-* Implemented responsive UI, REST APIs, and database integration for seamless shopping experiences.
-* **Tech Stack:** React.js, Node.js, Express.js, PostgreSQL
-* 🔗 Repository: https://github.com/yashvi-28
 
 ### 🧬 Genetics Data Management System
 
@@ -65,16 +59,12 @@
 * **Tech Stack:** Java, SQL, DBMS
 * 🔗 Repository: https://github.com/yashvi-28
   
-Example:
-- Portfolio Website – https://github.com/yashvi-28
-- Mini Python Projects – https://github.com/yashvi-28
-
 ---
 
 ## 🌐 Connect with Me
-- LinkedIn: (add link here)
+- LinkedIn:https://www.linkedin.com/in/yashvi-dixit-7125242a2?
 - GitHub: https://github.com/yashvi-28
 
 ---
 
-⭐ *“Keep learning, keep building.”*
+🌸 Stay curious. Stay creative. Stay coding.
