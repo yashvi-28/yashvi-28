@@ -1,93 +1,46 @@
-````md
-<div align="center">
+# Hi there 👋, I'm Yashvi
 
-# Yashvi Dixit
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Java+Developer;DSA+Enthusiast;Building+Ideas+Into+Reality;Little+Big+Dreams." />
-
-</div>
+🚀 Aspiring Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner
 
 ---
 
-```bash
-$ whoami
-
-Yashvi Dixit
-
-Education : B.Tech CSE
-Code      : Java
-Focus     : DSA • Cloud • AI
-Status    : Learning Something New
-````
-
-### About Me
-
-```text
-> Building projects that solve real problems
-
-> Practicing DSA consistently
-
-> Exploring Cloud & AI
-
-> Turning ideas into applications
-```
-
-### Tech Stack
-
-```text
-Java • JavaScript • SQL • Python
-
-React • Node.js • Express.js
-
-PostgreSQL • MySQL
-
-Git • GitHub • VS Code • Postman
-```
-
-### Projects
-
-```text
-📌 Campus Placement Management System
-   Streamlining student recruitment and placement processes
-
-📌 DealDigger
-   Smart price comparison platform
-
-📌 Clinical AI
-   AI-powered healthcare assistant
-
-📌 Genetics Data Management System
-   Managing and analyzing genetic records
-```
-
-### Mindset
-
-```cpp
-while(true)
-{
-    Learn();
-    Build();
-    Grow();
-}
-```
-
-### Current Mission
-
-```bash
-[■■■■■■■■□□] Improving DSA
-
-[■■■■■■■□□□] Learning Cloud
-
-[■■■■■■■■■□] Building Projects
-```
+## 👩‍💻 About Me
+- 🔭 I’m currently working on improving my coding skills
+- 🌱 I’m currently learning Full Stack Development & DSA
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about Python, Web Development, and GitHub
+- 📫 How to reach me: [Add your email or LinkedIn here]
+- ⚡ Fun fact: I love building creative and useful projects
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
+- 💻 Languages: Python, Java, C++
+- 🌐 Web: HTML, CSS, JavaScript
+- 🗄️ Database: MySQL
+- ⚙️ Tools: Git, GitHub, VS Code
 
-### Dream Big. Build Daily.
+---
 
-`Little Big Dreams.`
+## 📊 GitHub Stats
+![Yashvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashvi-28&show_icons=true&theme=tokyonight)
 
-</div>
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvi-28&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Projects
+- 🌟 Add your best projects here with links  
+Example:
+- Portfolio Website – https://github.com/yashvi-28
+- Mini Python Projects – https://github.com/yashvi-28
+
+---
+
+## 🌐 Connect with Me
+- LinkedIn: (add link here)
+- GitHub: https://github.com/yashvi-28
+
+---
+
+⭐ *“Keep learning, keep building.”*
